@@ -1,0 +1,38 @@
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\bin\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.exe
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\bin\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.deps.json
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\bin\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.runtimeconfig.json
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\bin\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.runtimeconfig.dev.json
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\bin\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.dll
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\bin\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.pdb
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\bin\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.Views.dll
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\bin\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.Views.pdb
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.csproj.AssemblyReference.cache
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.AssemblyInfoInputs.cache
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.AssemblyInfo.cs
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.csproj.CoreCompileInputs.cache
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.MvcApplicationPartsAssemblyInfo.cache
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.RazorAssemblyInfo.cache
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.RazorAssemblyInfo.cs
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\staticwebassets\VS HTML ASSINGMENT SUBMISSION.StaticWebAssets.Manifest.cache
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\staticwebassets\VS HTML ASSINGMENT SUBMISSION.StaticWebAssets.xml
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\scopedcss\bundle\VS HTML ASSINGMENT SUBMISSION.styles.css
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.TagHelpers.input.cache
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.TagHelpers.output.cache
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.RazorCoreGenerate.cache
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.RazorTargetAssemblyInfo.cache
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.RazorTargetAssemblyInfo.cs
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.Views.pdb
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.dll
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.pdb
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.genruntimeconfig.cache
+C:\Tech Academy Projects\Javascript_Projects2\VS HTML ASSINGMENT SUBMISSION\obj\Debug\netcoreapp3.1\VS HTML ASSINGMENT SUBMISSION.csproj.CopyComplete
